@@ -1,0 +1,21 @@
+title: Hrishi’s Notes
+description: Thoughts on rationality, AGI, and the messy human core underneath.
+url: "" 
+author:
+  name: Hrishi
+  email: hm2901@columbia.edu
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  skin: auto
+show_excerpts: true
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+permalink: /:categories/:year/:month/:day/:title/
